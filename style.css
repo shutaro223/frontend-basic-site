@@ -1,0 +1,18 @@
+:root {
+  --font-family-heading: "Anton", sans-serif;
+  --font-family-body: "Noto Sans JP", sans-serif;
+
+  --color-white: "#FFFEFC";
+  --color-black: "#020911";
+  --color-accent-yellow: "#F2E52E";
+  --color-accent-red: "#F20574";
+  --color-background-black: "#171525";
+  --color-background-navy: "#030427";
+  --color-form-background-yellow: "#FFFAB9";
+  --color-form-background-qrav: "#AD9783";
+  --color-form-border-red: " #DF6DA2";
+  --color-button-hover-red: " #F043A5";
+  --color-course-hover-yellow: "#F4E877";
+  --color-hero-overlay: " rgba(57, 24, 111, 0.4)";
+  --color-course-overlay: "rgba(32, 8, 19, 0.63)";
+}
